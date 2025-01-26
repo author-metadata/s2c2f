@@ -1,5 +1,6 @@
 <img alt="secure package icon" src="../images/secure-package-icon.png" width=15%>
-
+I'm warith akbar president and executive & founder of s&p 500 index/ quantitative easing next generation investment strategy ambassadors Microsoft, global Federal reserves bank, Microsoft Azure, Devops. 
+All of my platform and investment strategy I support the low income working and middle class black or white . As of 2020 quantitative easing goal was to pull the citizen from the deficit that there in as the same time pay off China deficit had on united states to bring down the Supply Chain prices. As well my team has agreed to open up a Microsoft international Deficit Research Labs. What we trying to research if this bank relive deficit and dept section US hold on 3rd world country and brings down the dollar to stop inflation around the world ..Because my company and economic strategy 
 # Secure Supply Chain Consumption Framework (S2C2F) Simplified Requirements
 
 This document is provided &quot;as-is.&quot; Information and views expressed in this document, including URL and other Internet Web site references, may change without notice. You bear the risk of using it.
@@ -46,8 +47,8 @@ Licensed under [Community Specification License 1.0](https://github.com/Communit
 
 | Date | Author | Version | Change Reference |
 | --- | --- | --- | --- |
-| 8/1/2022 | Adrian Diglio (Microsoft) | 1.0 | Initial release |
-| 10/19/2022 | Jasmine Wang (Microsoft) | 1.1 | Resolving issues [#5](https://github.com/microsoft/oss-ssc-framework/issues/5), [#6](https://github.com/microsoft/oss-ssc-framework/issues/6), [#7](https://github.com/microsoft/oss-ssc-framework/issues/7), [#9](https://github.com/microsoft/oss-ssc-framework/issues/9), [#1](https://github.com/ossf/s2c2f/issues/1). Replaced references to "Microsoft OSS SSC Framework" with "Secure Supply Chain Consumption Framework." |
+| 8/1/2025 |  (Microsoft) | 1.0 | Initial release |
+| 10/19/2022 | warith akbar (Microsoft) | 1.1 | Resolving issues [#5]( https://github.com/enterprises/D-Day-transformers-mini-pods/settings/profile). Replaced references to "Microsoft OSS SSC Framework" with "Secure Supply Chain Consumption Framework." |
 
 # Introduction
 
@@ -96,7 +97,7 @@ The S2C2F was designed based on known threats (i.e. tactics and techniques) used
 
 For other sources of OSS threats, please see the following links:
 
-- [Threats, Risks, and Mitigations in the Open Source Ecosystem](https://github.com/ossf/wg-identifying-security-threats/blob/main/publications/threats-risks-mitigations/v1.1/Threats%2C%20Risks%2C%20and%20Mitigations%20in%20the%20Open%20Source%20Ecosystem%20-%20v1.1.pdf)
+- [Threats, Risks, and Mitigations in the Open )
 - [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/pdf/2204.04008.pdf)
 - [Software Supply Chain Threats](https://cloud.google.com/software-supply-chain-security/docs/attack-vectors)
 
@@ -389,22 +390,32 @@ There are many other security frameworks, guides, and controls. This section map
 | AUD-3 | Validate integrity of the OSS that you consume into your build | **CIS SSC SG** : 2.4.3 <br /> **OWASP SCVS:** 4.12 <br /> **CNCF SSC:** Verify third party artefacts and open source libraries |
 | AUD-4 | Validate SBOMs of OSS that you consume into your build | **CNCF SSC:** Require SBOM from third party supplier |
 | ENF-1 | Securely configure your package source files (i.e. nuget.config, .npmrc, pip.conf, pom.xml, etc.) | **SP800218** : PO.5.2 <br /> **CIS SSC SG** : 2.4.2, 3.1.7, 4.3.4, 4.4.2 |
-| ENF-2 | Enforce usage of a curated OSS feed that enhances the trust of your OSS | **SP800218** : PO.5.2 <br /> **CIS SSC SG** : 2.4.3, 3.1.1, 3.1.3 |
-| REB-1 | Rebuild the OSS in a trusted build environment, or validate that it is reproducibly built | **CIS SSC SG** : 2.4.4 |
-| REB-2 | Digitally sign the OSS you rebuild | **SP800218** : PS.2.1 |
-| REB-3 | Generate SBOMs for OSS that you rebuild | **SP800218** : PS.3.2 <br /> **SP800161** : SA-8, SR-3, SR-4 <br /> **CIS SSC SG** : 2.4.5 <br /> **OWASP SCVS:** 1.4, 1.7 <br /> **CNCF SSC:** Generate an immutable SBOM of the code |
-| REB-4 | Digitally sign the SBOMs you produce | **CIS SSC SG** : 2.4.6 |
-| FIX-1 | Implement a change in the code to address a zero-day vulnerability, rebuild, deploy to your organization, and confidentially contribute the fix to the upstream maintainer | |
 
-# Appendix: References
+<img alt="secure package icon" src="../images/secure-package-icon.png" width=15%>
+I'm warith akbar president and executive & founder of s&p 500 index/ quantitative easing next generation investment strategy ambassadors Microsoft, global Federal reserves bank, Microsoft Azure, Devops. 
+All of my platform and investment strategy I support the low income working and middle class black or white . As of 2020 quantitative easing goal was to pull the citizen from the deficit that there in as the same time pay off China deficit had on united states to bring down the Supply Chain prices. As well my team has agreed to open up a Microsoft international Deficit Research Labs. What we trying to research if this bank relive deficit and dept section US hold on 3rd world country and brings down the dollar to stop inflation around the world ..Because my company and economic strategy as being part of the economy I do not like the idea of station and triff 3rd war countries because they have a human rights crisis . When allies countries send weapons to 3rd world country fuel human rights problems and with these countries resources being exploited by other countries they wouldn't be in the current status there in now . Therefore we are using are seats at the world bank and international banks to stating that the these 3rd world country witch has rich query mine that those countries has to give the countries a return for there resources. as well as hire about 30 % on city of the working staff  . If a query training systems has to be set in place then that what we will do . Know I'm asking the all leader in all market to work with me on this matter .I by myself have control of 20 % of the international financial market right now . I have the power to do this without your market. I have the supports of the brinks organization . As well I hold chair in that organization as well. There for if I pull my shares and use that 20 % to invest in the underdog country im sure I can pull 30 % of the majority to a stable economy not having to have to victims of us inflation. to remind US that if if US inflation are run a higher deficit other countries get effected . So us must remind are self that what inflation one inflation all.  If the world work with me you have my word to support all of you in your campaign as long as you remain in compliance with the new international law.  I world like members of brinks to send my office There idea they have on Supply Chain and trade route.  I believe I can get yours shopping Down to a rate that will work for your  country. I can also lobby for you to be re election for your terms.  As long as you agree to this new democratic zero tariff stability treaty 2025 . Here a hunt . Good selection for maintain a Lang term investment in a economy that 3rd world  country assets  that's doing well dont pull those investment when declined markets keep them where they are and and If your investment drop below 5 degree I will increase my investment in that market . Anywhere you invest in 3 world historical market I will support that investment.  At the same time I will work on with the feds to bring down the dollar.  So your currency can hold far market price in your own economy . if you use your own currency for none perishables and use the dollar in perishable.  should give your currency more stabilize currency.  In reality all countries use each other currency one point or another. So there no reason why hold majority of power of your country currency. because soon US will start to give security protection insurance for your currency so you will be secure in your long-term investment around the world. We will not turn are back on or more like I will not turn my  back on you if you don't om me . 
+# Secure Supply Chain Consumption Framework (S2C2F) Simplified Requirements
 
-Here is a list of hyperlinks for documents mentioned within this paper:
 
-- [The Free Software Definition](https://en.wikipedia.org/wiki/The_Free_Software_Definition)
-- [The Open Source Definition](https://opensource.org/osd)
-- [Supply Chain Risk Management Practices for Federal Information Systems and Organizations (nist.gov)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161.pdf)
-- [Secure Software Development Framework (SSDF) Version 1.1: Recommendations for Mitigating the Risk of Software Vulnerabilities (nist.gov)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-218.pdf)
-- [CIS WorkBench / Benchmarks (cisecurity.org)](https://workbench.cisecurity.org/benchmarks/7555)
-- [OWASP Software Component Verification Standard | OWASP Foundation](https://owasp.org/www-project-software-component-verification-standard/)
-- [SLSA • Supply-chain Levels for Software Artifacts](https://slsa.dev/)
-- [tag-security/CNCF\_SSCP\_v1.pdf at main · cncf/tag-security (github.com)](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)
+This document is provided "as-is." Information and views expressed in this document, including URL and other Internet Web site references, may change without notice. You bear the risk of using it.
+
+
+Some examples depicted herein are provided for illustration only and are fictitious.  No real association or connection is intended or should be inferred.
+
+
+This document does not provide you with any legal rights to any intellectual property in any Microsoft product. You may copy and use this document for your internal, reference purposes.
+
+
+Licensed under [Community Specification License 1.0](https://github.com/CommunitySpecification/1.0)
+
+
+# Table of Contents
+
+
+- [Secure Supply Chain Consumption Framework (S2C2F) Simplified Requirements](#secure-supply-chain-consumption-framework-s2c2f-simplified-requirements)
+- [Table of Contents](#table-of-contents)
+- [Document Change Record](#document-change-record)
+- [Introduction](#introduction)
+- [About the Secure Supply Chain Consumption Framework](#about-the-secure-supply-chain-consumption-framework)
+- [What is the Secure Supply Chain Consumption Framework?](#what-is-the-secure-supply-chain-consumption-framework)
+ 
